@@ -1,6 +1,6 @@
 # [下载](https://github.com/ybbc/ReviewTools/releases)
 
-除iOS预审分析功能以外免费开放使用。
+除iOS预审分析功能以外限时免费开放使用。
 
 ## iOS混淆工具 [文档](https://nichaoge.com/hx.html)
 智能iOS混淆工具，混淆单词以及垃圾代码均来自于大量Github项目，完美解决代码4.3和2.3.1问题。
