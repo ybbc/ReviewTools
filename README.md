@@ -3,7 +3,10 @@
 除iOS预审分析功能以外限时免费开放使用。
 
 ## iOS混淆工具 [文档](https://nichaoge.com/hx.html)
-智能iOS混淆工具，混淆单词以及垃圾代码均来自于大量Github项目，完美解决代码4.3和2.3.1问题。
+- 混淆词库和代码来自于大量的Github项目  
+- 代码库经过差异化处理和代码合并后可生成**数亿**种用于混淆的单词和垃圾代码，确保每次混淆不会出现一点重复  
+- **混淆出来的代码跟手写没有任何区别，完美解决代码4.3和2.3.1问题**
+
 ![](https://file.nichaoge.com/SF3VtcYiys5jkgSPQJ8NQsQh9NQzihgm/hx.gif)
 
 ## iOS预审分析 [预审报告模板](https://file.nichaoge.com/95h48gnHr8kemUwdjiwQa6Cfv8qGzYWO/%E9%A2%84%E5%AE%A1%E6%8A%A5%E5%91%8A%E6%A8%A1%E6%9D%BF.html) [文档](https://nichaoge.com/review.html)
