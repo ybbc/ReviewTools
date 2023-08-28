@@ -1,7 +1,5 @@
 # [下载](https://github.com/ybbc/ReviewTools/releases)
 
-除iOS预审分析功能以外限时免费开放使用。
-
 ## iOS混淆工具 [文档](https://nichaoge.com/hx.html)
 - 混淆词库和代码来自于大量的Github项目  
 - 代码库经过差异化处理和代码合并后可生成**数亿**种用于混淆的单词和垃圾代码，确保每次混淆不会出现一点重复  
