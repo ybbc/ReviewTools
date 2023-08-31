@@ -1,5 +1,5 @@
 # [下载](https://github.com/ybbc/ReviewTools/releases)
-新用户可免费试用
+除预审外，iOS混淆、资源加密、重签名等功能新用户可免费试用
 
 ## iOS混淆工具 [文档](https://nichaoge.com/hx.html)
 - 混淆词库和代码来自于大量的Github项目  
