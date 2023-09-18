@@ -1,10 +1,10 @@
 # [下载](https://github.com/ybbc/ReviewTools/releases)
-除预审外，iOS混淆、资源加密、重签名等功能新用户可免费试用
 
 ## iOS混淆工具 [文档](https://nichaoge.com/hx.html)
 - 混淆词库和代码来自于大量的Github项目  
 - 代码库经过差异化处理和代码合并后可生成**数亿**种用于混淆的单词和垃圾代码，确保每次混淆不会出现一点重复  
 - **混淆出来的代码跟手写没有任何区别，完美解决代码4.3和2.3.1问题**
+- 目前仅支持Objective-C，Swift正在兼容
 
 ![](https://file.nichaoge.com/SF3VtcYiys5jkgSPQJ8NQsQh9NQzihgm/hx.gif)
 
