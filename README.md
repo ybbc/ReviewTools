@@ -1,8 +1,4 @@
-# [下载](https://file.nichaoge.com/Ks21hdSavBKpiBLyMbpPDfCKf4uewMPk/ReviewTools.dmg)
-
-## 工具又双叒叕掉签了，暂时使用不签名版本，安装时需要简单操作一下，我们会尽快补上签名的版本
-- 拖到应用程序，在应用程序找到 ReviewTools，右键 -> “打开”
-- 系统设置 -> 隐私与安全性 -> 滑动到最下面，点击 “仍然打开”
+# [点击下载](https://file.nichaoge.com/AFUNUT0bbsW4LlBrSBVEAPjihriMfLJN/ReviewTools.dmg)
 
 ## iOS混淆工具 [文档](https://nichaoge.com/hx.html)
 - 混淆词库和代码来自于大量的Github项目  
